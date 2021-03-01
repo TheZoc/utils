@@ -7,3 +7,8 @@ decided to create a repository to host them.
 
 Unless otherwise stated in the utility directory, the utilities here are use a
 3-clause BSD license ("BSD-new").
+
+Quick summary of utilities
+--------------------------
+
+- [rapidjson_utils](rapidjson_utils): An utility to aid with RapidJSON common tasks.
