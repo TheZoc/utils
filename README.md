@@ -12,3 +12,5 @@ Quick summary of utilities
 --------------------------
 
 - [rapidjson_utils](rapidjson_utils): An utility to aid with RapidJSON common tasks.
+- [SquirrelNoise5](noise): An utility to create interesting noise or to be
+  used as a Random Number Generator (RNG).
