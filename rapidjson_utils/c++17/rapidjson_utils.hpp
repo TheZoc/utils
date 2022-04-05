@@ -3,7 +3,7 @@
 //
 // RapidJSON Utils
 //
-// Felipe Guedes
+// Felipe Guedes da Silveira
 // March 2021
 //
 // This header - only utility includes a set of templates to help with RapidJSON
